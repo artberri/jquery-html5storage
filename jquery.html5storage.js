@@ -3,7 +3,7 @@
 * about HTML5 support. It uses Cookies for backward compatibility.
 *
 * @author Alberto Varela Sánchez (http://www.berriart.com)
-* @version 0.9 (17th January 2013)
+* @version 1.0 (17th January 2013)
 *
 * Released under the MIT License (http://opensource.org/licenses/MIT)
 *

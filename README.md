@@ -1,6 +1,6 @@
 #Html5 Storage jQuery Plugin 
 
-A jQuery Plugin to use **Local Storage** or **Session Storage** without worrying about HTML5 support. It uses Cookies for backward compatibility.
+A light (1,2K) jQuery Plugin to use **Local Storage** or **Session Storage** without worrying about HTML5 support. It uses Cookies for backward compatibility.
 
 If you are using jQuery in your projects and you want to use Local Storage or Session Storage, this is your library. If user's browser doesn't support them it will use cookies instead.
 
