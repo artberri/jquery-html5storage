@@ -1,0 +1,32 @@
+{
+  "name": "html5storage",
+  "title": "Html5 Storage",
+  "description": "A light (1,2K) plugin to use Local Storage or Session Storage without worrying about HTML5 support. It uses Cookies for backward compatibility.",
+  "keywords": [
+    "storage",
+    "html5",
+    "local",
+    "session"
+  ],
+  "version": "1.0",
+  "author": {
+    "name": "Alberto Varela Sánchez",
+    "email": "alberto@berriart.com",
+    "url": "http://www.berriart.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "bugs": "http://github.com/artberri/jquery-html5storage/issues",
+  "homepage": "http://github.com/artberri/jquery-html5storage/",
+  "docs": "http://github.com/artberri/jquery-html5storage/",
+  "download": "http://github.com/artberri/jquery-html5storage/",
+  "demo": "http://github.com/artberri/jquery-html5storage/",
+  "dependencies": {
+    "jquery": ">=1.0",
+    "cookie": ">=1.0"
+  }
+}
