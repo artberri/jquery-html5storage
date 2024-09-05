@@ -1,4 +1,8 @@
-#Html5 Storage jQuery Plugin 
+# [DEPRECATED] Html5 Storage jQuery Plugin 
+
+> 📌 **Deprecation Notice**
+>
+> This repository is deprecated and no more work will be done on this by [Alberto Varela](https://github.com/artberri).
 
 A light (1,2K) jQuery Plugin to use **Local Storage** or **Session Storage** without worrying about HTML5 support. It uses Cookies for backward compatibility.
 
